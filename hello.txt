@@ -1,0 +1,31 @@
+Êþº¾   4 >
+      	   ¬
+    	   !  "
+ # $
+   % &
+ 	    '
+ 	 (
+   )
+ 	 *
+ 	 + , -   <init>   ()V   Code   LineNumberTable   sum   (II)I   main   ([Ljava/lang/String;)V  
+SourceFile  p1.java 
+       java/util/Scanner . 
+ / 0 
+   1 
+ 2 3   
+Enter 2 number 4 
+ 5 6 
+ 7 8   java/lang/StringBuilder  
+their sum is  
+ 9 : 
+     
+ 9 ; 
+ < =   prog1   java/lang/Object   java/lang/System   in   Ljava/io/InputStream;   (Ljava/io/InputStream;)V   out   Ljava/io/PrintStream;   java/io/PrintStream  println   (Ljava/lang/String;)V  nextInt   ()I   append  -(Ljava/lang/String;)Ljava/lang/StringBuilder;   (I)Ljava/lang/StringBuilder;   toString   ()Ljava/lang/String;                                  *•  ±                 	                      `¬                 	           g       ;»  Y²  •  N²    ¶ -¶  <-¶  =²  » 	Y• 
+ 
+¶  
+  ¸  ¶  
+¶  ¶ ±               
+ 
+  
+        
+     :            
